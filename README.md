@@ -1,1 +1,1 @@
-# beach-reviws
+# beach-reviews
